@@ -1,0 +1,172 @@
+{
+    "generated_pantents": [
+        {
+            "prompt": "The patent describes a method for producing a polymer with a molecular weight of at least 100,000 g/mol. ",
+            "completion": "{'element': 'polymer', 'property': 'molecular weight', 'value': 'at least 100,000', 'unit': 'g/mol'}"
+        },
+        {
+            "prompt": "The invention is a device that can generate a magnetic field with a strength of up to 2 Tesla. ",
+            "completion": "{'element': 'magnetic field', 'property': 'strength', 'value': 'up to 2', 'unit': 'Tesla'}"
+        },
+        {
+            "prompt": "The patent discloses a composition comprising nanoparticles with a diameter in the range of 1 to 100 nanometers. ",
+            "completion": "{'element': 'nanoparticles', 'property': 'diameter', 'value': '1 to 100', 'unit': 'nanometers'}"
+        },
+        {
+            "prompt": "The invention is a process for producing a material with a porosity of at least 50%. ",
+            "completion": "{'element': 'material', 'property': 'porosity', 'value': 'at least 50', 'unit': '%'}"
+        },
+        {
+            "prompt": "The patent describes a method for producing a catalyst with a surface area of at least 200 m2/g. ",
+            "completion": "{'element': 'catalyst', 'property': 'surface area', 'value': 'at least 200', 'unit': 'm2/g'}"
+        },
+        {
+            "prompt": "The new adhesive formula has a tensile strength of 500 psi. ",
+            "completion": "{'element': 'adhesive formula', 'property': 'tensile strength', 'value': '500', 'unit': 'psi'}"
+        },
+        {
+            "prompt": "The device has a battery life of up to 10 hours. ",
+            "completion": "{'element': 'device', 'property': 'battery life', 'value': '10', 'unit': 'hours'}"
+        },
+        {
+            "prompt": "The material has a thermal conductivity of 0.5 W/mK. ",
+            "completion": "{'element': 'material', 'property': 'thermal conductivity', 'value': '0.5', 'unit': 'W/mK'}"
+        },
+        {
+            "prompt": "The new coating provides a thickness of 20 microns. ",
+            "completion": "{'element': 'coating', 'property': 'thickness', 'value': '20', 'unit': 'microns'}"
+        },
+        {
+            "prompt": "The new battery design had a capacity of 3000 mAh, a voltage of 3.7 V, and a weight of 50 grams. ",
+            "completion": "[{'element': 'battery', 'property': 'capacity', 'value': '3000', 'unit': 'mAh'},{'element': 'battery', 'property': 'voltage', 'value': '3.7', 'unit': 'V'},          {'element': 'battery', 'property': 'weight', 'value': '50', 'unit': 'g'}]"
+        },
+        {
+            "prompt": "The coating thickness was measured to be 0.5 microns. ",
+            "completion": "{'element': 'coating', 'property': 'thickness', 'value': '0.5', 'unit': 'microns'}"
+        },
+        {
+            "prompt": "The new alloy had a tensile strength of 500 MPa and a yield strength of 400 MPa. ",
+            "completion": "[{'element': 'alloy', 'property': 'tensile strength', 'value': '500', 'unit': 'MPa'},{'element': 'alloy', 'property': 'yield strength', 'value': '400', 'unit': 'MPa'}]"
+        },
+        {
+            "prompt": "The new drug formulation showed a dissolution rate of 80% after 30 minutes. ",
+            "completion": "{'element': 'drug formulation', 'property': 'dissolution rate', 'value': '80', 'unit': '% after 30 minutes'}"
+        },
+        {
+            "prompt": "The patent describes a method for producing a polymer with a molecular weight of at least 50,000 g/mol. ",
+            "completion": "{'element': 'polymer', 'property': 'molecular weight', 'value': 'at least 50,000', 'unit': 'g/mol'}"
+        },
+        {
+            "prompt": "The invention relates to a device with a width of 5 cm and a height of 10 cm. ",
+            "completion": "[{'element': 'device', 'property': 'width', 'value': '5', 'unit': 'cm'},{'element': 'device', 'property': 'height', 'value': '10', 'unit': 'cm'}]"
+        },
+        {
+            "prompt": "The patent claims a composition comprising at least 30% by weight of sugar. ",
+            "completion": "{'element': 'composition', 'property': 'sugar content', 'value': 'at least 30', 'unit': '% by weight'}"
+        },
+        {
+            "prompt": "The invention discloses a method for producing a film with a thickness of 10 microns. ",
+            "completion": "{'element': 'film', 'property': 'thickness', 'value': '10', 'unit': 'microns'}"
+        },
+        {
+            "prompt": "The patent describes a method for producing a polypropylene film with a thickness of 10 microns or less. ",
+            "completion": "{'element': 'polypropylene film', 'property': 'thickness', 'value': '10', 'unit': 'microns'}"
+        },
+        {
+            "prompt": "The invention is a new type of battery with a capacity of at least 5000 mAh. ",
+            "completion": "{'element': 'battery', 'property': 'capacity', 'value': '5000', 'unit': 'mAh'}"
+        },
+        {
+            "prompt": "The patent application claims a composition with a melting point in the range of 60-80°C. ",
+            "completion": "{'element': 'composition', 'property': 'melting point', 'value': '60-80', 'unit': '°C'}"
+        },
+        {
+            "prompt": "The invention is a device with a weight of no more than 100 grams. ",
+            "completion": "{'element': 'device', 'property': 'weight', 'value': '100', 'unit': 'grams'}"
+        },
+        {
+            "prompt": "The patent describes a method for producing a metal alloy with a density of at least 6 g/cm3. ",
+            "completion": "{'element': 'metal alloy', 'property': 'density', 'value': '6', 'unit': 'g/cm3'}"
+        },
+        {
+            "prompt": "The new coating was found to increase the hardness of the metal by 50% compared to the uncoated metal. ",
+            "completion": "{'element': 'metal', 'property': 'hardness', 'value': '50', 'unit': '%'}"
+        },
+        {
+            "prompt": "The patent describes a method for producing a polymer with a molecular weight of at least 100,000 g/mol. ",
+            "completion": "{'element': 'polymer', 'property': 'molecular weight', 'value': '100000', 'unit': 'g/mol'}"
+        },
+        {
+            "prompt": "The invention claims a composition comprising at least 70% by weight of silica particles with a diameter of less than 10 microns. ",
+            "completion": "{'element': 'silica particles', 'property': 'diameter', 'value': 'less than 10', 'unit': 'microns'}"
+        },
+        {
+            "prompt": "The patent discloses a process for producing a ceramic material with a porosity of 30-40%. ",
+            "completion": "{'element': 'ceramic material', 'property': 'porosity', 'value': '30-40', 'unit': '%'}"
+        },
+        {
+            "prompt": "The patent describes a method for producing a polymer with a molecular weight of at least 1 million g/mol. ",
+            "completion": "{'element': 'polymer', 'property': 'molecular weight', 'value': 'at least 1 million', 'unit': 'g/mol'}"
+        },
+        {
+            "prompt": "The invention involves a composition comprising 10-20% by weight of silica nanoparticles. ",
+            "completion": "{'element': 'composition', 'property': 'silica nanoparticles', 'value': '10-20', 'unit': '% by weight'}"
+        },
+        {
+            "prompt": "The patent application discloses a process for producing a metal alloy with a thickness of 10 microns or less. ",
+            "completion": "{'element': 'metal alloy', 'property': 'thickness', 'value': '10', 'unit': 'microns or less'}"
+        },
+        {
+            "prompt": "The invention relates to a method for producing a pharmaceutical composition with a particle size distribution between 1 and 10 microns. ",
+            "completion": "{'element': 'pharmaceutical composition', 'property': 'particle size distribution', 'value': 'between 1 and 10', 'unit': 'microns'}"
+        },
+        {
+            "prompt": "The new patented device has a weight of approximately 2.5 pounds. ",
+            "completion": "{'element': 'device', 'property': 'weight', 'value': '2.5', 'unit': 'pounds'}"
+        },
+        {
+            "prompt": "The patented process results in a yield of 95%. ",
+            "completion": "{'element': 'process', 'property': 'yield', 'value': '95', 'unit': '%'}"
+        },
+        {
+            "prompt": "The patented material has a melting point of 300°C. ",
+            "completion": "{'element': 'material', 'property': 'melting point', 'value': '300', 'unit': '°C'}"
+        },
+        {
+            "prompt": "The patented method reduces energy consumption by up to 30%. ",
+            "completion": "{'element': 'method', 'property': 'energy consumption reduction', 'value': '30', 'unit': '%'}"
+        },
+        {
+            "prompt": "The new adhesive formula had a viscosity of 2000 centipoise at room temperature. ",
+            "completion": "{'element': 'adhesive formula', 'property': 'viscosity', 'value': '2000', 'unit': 'centipoise'}"
+        },
+        {
+            "prompt": "The patented device had a weight of approximately 1.5 kilograms. ",
+            "completion": "{'element': 'patented device', 'property': 'weight', 'value': '1.5', 'unit': 'kilograms'}"
+        },
+        {
+            "prompt": "The novel composition had a boiling point of 120 degrees Celsius at atmospheric pressure. ",
+            "completion": "{'element': 'novel composition', 'property': 'boiling point', 'value': '120', 'unit': 'degrees Celsius'}"
+        },
+        {
+            "prompt": "The innovative material had a thermal conductivity of 50 watts per meter-kelvin. ",
+            "completion": "{'element': 'innovative material', 'property': 'thermal conductivity', 'value': '50', 'unit': 'watts per meter-kelvin'}"
+        },
+        {
+            "prompt": "The new drug formulation showed a dissolution rate of 80% after 30 minutes in simulated gastric fluid. ",
+            "completion": "{'element': 'drug formulation', 'property': 'dissolution rate', 'value': '80', 'unit': '%'}"
+        },
+        {
+            "prompt": "The patent describes a method for producing solar panels with an efficiency of at least 20%. ",
+            "completion": "{'element': 'solar panels', 'property': 'efficiency', 'value': 'at least 20', 'unit': '%'}"
+        },
+        {
+            "prompt": "The invention relates to a composition comprising nanoparticles with a mean diameter of 100 nm. ",
+            "completion": "{'element': 'nanoparticles', 'property': 'mean diameter', 'value': '100', 'unit': 'nm'}"
+        },
+        {
+            "prompt": "The patent claims a device that can measure temperatures with an accuracy of 0.1°C. ",
+            "completion": "{'element': 'temperature measuring device', 'property': 'accuracy', 'value': '0.1', 'unit': '°C'}"
+        }
+    ]
+}
